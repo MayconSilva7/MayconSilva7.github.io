@@ -42,7 +42,7 @@ async function main() {
     fs.rmSync(path.join(targetDir, '.git'), { recursive: true, force: true });
 
     // Update CV YAML with user's name
-    const cvYamlPath = path.join(targetDir, 'Ivan_Kokalovic_CV.yaml');
+    const cvYamlPath = path.join(targetDir, 'maycon_de.yaml');
     if (fs.existsSync(cvYamlPath)) {
       let cvContent = fs.readFileSync(cvYamlPath, 'utf8');
       cvContent = cvContent.replace(/Ivan Kokalović/g, name);
