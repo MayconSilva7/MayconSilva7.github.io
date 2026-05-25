@@ -9,8 +9,8 @@ docs_dir: "{{ project_dir }}/docs"
 venv_dir: "{{ project_dir }}/venv"
 
 # CV configuration
-cv_name: "Ivan_Kokalović_CV"
-cv_yaml: "Ivan_Kokalovic_CV.yaml"
+cv_name: "Maycon_Silva_CV"
+cv_yaml: "Maycon_de.yaml"
 source_md: "{{ project_dir }}/rendercv_output/{{ cv_name }}.md"
 
 # Server configuration
