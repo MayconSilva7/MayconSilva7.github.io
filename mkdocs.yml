@@ -89,6 +89,8 @@ markdown_extensions:
 plugins:
   - search
   - tags
+  - rendercv:
+      cv_datasource: maycon_de.yaml
 
 extra:
   social:
