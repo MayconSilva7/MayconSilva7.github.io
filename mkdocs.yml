@@ -52,9 +52,7 @@ repo_name: MayconSilva7.github.io
 
 nav:
   - Home: index.md
-  - Lebenslauf: cv.md
-  - Projekte: creative.md
-  - Download: download.md
+  - Lebenslauf: Maycon_Silva_CV.md
 
 markdown_extensions:
   - pymdownx.highlight:
