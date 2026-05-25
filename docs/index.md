@@ -55,9 +55,7 @@ Als geborener Autodidakt besitze ich die seltene Fähigkeit, mir hochkomplexe Sy
     <div class="skill-tags">
       <span class="tech-badge">Java</span>
       <span class="tech-badge">Python</span>
-      <span class="tech-badge">Scala</span>
       <span class="tech-badge">C++</span>
-      <span class="tech-badge">JavaScript</span>
     </div>
   </div>
   <div class="skill-card">
@@ -67,9 +65,7 @@ Als geborener Autodidakt besitze ich die seltene Fähigkeit, mir hochkomplexe Sy
     </div>
     <div class="skill-tags">
       <span class="tech-badge">Terraform</span>
-      <span class="tech-badge">Docker</span>
       <span class="tech-badge">Linux</span>
-      <span class="tech-badge">Ansible</span>
       <span class="tech-badge">Git</span>
     </div>
   </div>
@@ -82,7 +78,6 @@ Als geborener Autodidakt besitze ich die seltene Fähigkeit, mir hochkomplexe Sy
       <span class="tech-badge">MySQL</span>
       <span class="tech-badge">PostgreSQL</span>
       <span class="tech-badge">MongoDB</span>
-      <span class="tech-badge">MariaDB</span>
     </div>
   </div>
   <div class="skill-card">
