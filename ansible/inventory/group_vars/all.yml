@@ -10,7 +10,7 @@ venv_dir: "{{ project_dir }}/venv"
 
 # CV configuration
 cv_name: "Maycon_Silva_CV"
-cv_yaml: "Maycon_de.yaml"
+cv_yaml: "maycon_de.yaml"
 source_md: "{{ project_dir }}/rendercv_output/{{ cv_name }}.md"
 
 # Server configuration
