@@ -3,7 +3,10 @@ site_description: First and Second Level Support | Cloud & Infrastructure
 site_author: Maycon Ferreira Silva
 site_url: https://mayconsilva7.github.io/
 use_directory_urls: true
-
+# Add this line right here to force it to build on the main home directory:
+extra:
+  base_url: /
+  
 theme:
   name: material
   palette:
