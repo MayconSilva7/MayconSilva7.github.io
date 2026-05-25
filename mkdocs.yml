@@ -3,26 +3,24 @@ site_description: First and Second Level Support | Cloud & Infrastructure
 site_author: Maycon Ferreira Silva
 site_url: https://mayconsilva7.github.io/
 use_directory_urls: true
-# Add this line right here to force it to build on the main home directory:
-extra:
-  base_url: /
-  
+
 theme:
   name: material
+  language: de
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: custom
-      accent: custom
+      primary: teal
+      accent: teal
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: custom
-      accent: custom
+      primary: teal
+      accent: teal
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -49,15 +47,14 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-repo_url: https://github.com/koke1997
-repo_name: koke1997
+repo_url: https://github.com/MayconSilva7/MayconSilva7.github.io
+repo_name: MayconSilva7.github.io
 
 nav:
   - Home: index.md
-  - CV: cv.md
-  - Creative: creative.md
+  - Lebenslauf: cv.md
+  - Projekte: creative.md
   - Download: download.md
-  - Contact: contact.md
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -93,21 +90,25 @@ plugins:
       cv_datasource: maycon_de.yaml
 
 extra:
+  base_url: /
   social:
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/kokalovic/
-      name: LinkedIn Profile
     - icon: fontawesome/brands/github
-      link: https://github.com/koke1997
+      link: https://github.com/MayconSilva7
       name: GitHub Profile
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/maycon-ferreira/
+      name: LinkedIn Profile
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/maycon.ferreirasilva.9/
       name: Facebook Profile
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/maycon_silva7/
+      link: https://www.instagram.com/maycon_ferreir/
       name: Instagram Profile
+    - icon: fontawesome/solid/envelope
+      link: mailto:mayconferreirasilva7@gmail.com
+      name: Email
 
 extra_css:
   - stylesheets/extra.css
 
-copyright: Copyright &copy; 2026 Ivan Kokalović
+copyright: Copyright &copy; 2026 Maycon Ferreira Silva
