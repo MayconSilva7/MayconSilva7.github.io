@@ -1,20 +1,17 @@
- cv:
+cv:
   name: Maycon Silva
-  location: Dresden, Germany
+  location: Bremen, Germany
   phone: "+49 160 5573875"
   email: mayconferreirasilva7@gmail.com
   social_networks:
- social_networks:
-    - network: LinkedIn
-      username: mayconsilva7
     - network: GitHub
-      username:MayconSilva7 
+      username: MayconSilva7
 
   summary: |
     Ein äußerst disziplinierter IT-Operations-Spezialist und geborener Autodidakt mit einer außergewöhnlichen Arbeitsmoral. Meine ausgeprägte Fähigkeit zur selbstständigen Einarbeitung in komplexe Systeme zeigt sich darin, dass ich mir drei Fremdsprachen (Englisch, Spanisch, Deutsch) komplett eigenständig beigebracht habe. Dieses strukturierte Framework der autodidaktischen Weiterbildung übertrage ich erfolgreich auf technische Infrastrukturen: Ich verfüge über fundierte Kenntnisse im Linux-Umfeld, in der Implementierung von Python-basierten Automatisierungs-Pipelines sowie in Cloud-Architekturen auf AWS und Google Cloud Platform. Ich arbeite problemorientiert, bin sehr belastbar und überzeuge in dynamischen Umgebungen bei der Fehlerbehebung (Troubleshooting).
 
   sections:
-    Erfahrung & Projekte:
+    experience:
       - company: GitHub Open Source Workspace
         position: Cloud Automation & DevOps Engineer (Autodidaktisches Projekt)
         location: Dresden, Germany
@@ -26,7 +23,15 @@
           - Integration externer Geocoding-APIs (Geopy/Nominatim) zur automatisierten Adressvalidierung sowie Aufbau einer lokalen State-Persistence-Struktur zur Gewährleistung einer 100%igen Idempotenz
           - Professionelle Verwaltung von Code-Repositories, SSH-Schlüsselkonfigurationen und automatisierter Infrastruktur über Git/GitHub
 
-    Sprachen (Selbstgelernt):
+    skills:
+      - label: Infrastruktur & Cloud
+        details: Linux Systemadministration (Ubuntu, Debian), Amazon Web Services (AWS Architecture Study), Google Cloud Platform (GCP Cloud Core)
+      - label: Programmierung & Shell
+        details: Python (Automatisierung & API-Integrationen), Bash Scripting, Linux Shell-Tools, Git / GitHub Versionsverwaltung
+      - label: Kernkompetenzen
+        details: IT-Infrastruktur-Troubleshooting, Prozessautomatisierung, Datenvalidierung (Regex), API-Middleware-Entwicklung, Hohe Eigeninitiative
+
+    languages:
       - label: Portugiesisch
         details: Muttersprache
       - label: Englisch
@@ -36,15 +41,7 @@
       - label: Deutsch
         details: Gute Kenntnisse / Komplett selbstgelernt
 
-    Technische Qualifikationen:
-      - label: Infrastruktur & Cloud
-        details: Linux Systemadministration (Ubuntu, Debian), Amazon Web Services (AWS Architecture Study), Google Cloud Platform (GCP Core)
-      - label: Programmierung & Shell
-        details: Python (Automatisierung & API-Integrationen), Bash Scripting, Linux Shell-Tools, Git / GitHub Versionsverwaltung
-      - label: Kernkompetenzen
-        details: IT-Infrastruktur-Troubleshooting, Prozessautomatisierung, Datenvalidierung (Regex), API-Middleware-Entwicklung, Hohe Eigeninitiative
-
-    Zertifikate & Weiterbildung:
+    certifications:
       - label: AWS Certified Solutions Architect – Associate
         details: In Vorbereitung / Kontinuierliches Selbststudium zur professionellen Cloud-Zertifizierung
       - label: Python Essentials & Automation Pipelines
