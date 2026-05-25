@@ -1,9 +1,9 @@
-# Ivan Kokalovic
+# Maycon Ferreira 
 
 <div class="hero-section">
   <div class="hero-content">
-    <img src="assets/images/profile.jpg" alt="Ivan Kokalovic" class="hero-avatar" onerror="this.style.display='none'">
-    <h1 class="hero-title">Ivan Kokalovic</h1>
+    <img src="assets/images/profile.jpg" alt="Maycon Ferreira Silva" class="hero-avatar" onerror="this.style.display='none'">
+    <h1 class="hero-title">Maycon Ferreira Silva</h1>
     <p class="hero-subtitle">Backend Developer & Infrastructure Engineer</p>
     <p class="hero-location">Bremen, Germany</p>
     <div class="hero-actions">
@@ -38,11 +38,9 @@
 
 ## About Me
 
-Backend Developer at **RISE** (Research Industrial Systems Engineering) in Leipzig, specializing in infrastructure management, IAM systems, and backend development with Terragrunt, Java, Terraform, and Docker.
+Ein hochinnovativer und disziplinierter **IT Support Engineer** mit nachgewiesener Erfahrung im First- und Second-Level-Support bei der **Spectos GmbH** in Dresden. Experte für technische Analysen, Ticket-Handling (SLA) und das Troubleshooting von komplexen System- und Datenbankfehlern (MySQL, PostgreSQL). 
 
-Previously spent over 4 years at **IDnow**, progressing from Ident Specialist through Fraud Prevention to Technical Services Engineer. Built OCR engines, wrote Lambda functions, and worked with monitoring tools like Graylog and Grafana.
-
-Founded **In Voice d.o.o.** in Bosnia and Herzegovina - an IT consulting company where I built CRM systems, developed OCR solutions using Beowulf clusters, and worked on VoIP infrastructure.
+Als geborener Autodidakt besitze ich die seltene Fähigkeit, mir hochkomplexe Systeme vollkommen eigenständig anzueignen. Dies beweist nicht nur meine fließende Sprachkompetenz in 4 Sprachen (Deutsch, Englisch, Spanisch, Portugiesisch), sondern auch mein tiefer technischer Fokus auf Linux-Systemadministration, Automatisierung pipelines mittels Python sowie Cloud-Architekturen auf AWS und Google Cloud Platform (GCP).
 
 ---
 
@@ -132,12 +130,10 @@ Founded **In Voice d.o.o.** in Bosnia and Herzegovina - an IT consulting company
 
 | Period | Role | Company |
 |--------|------|---------|
-| 2025 - Present | Backend Developer | RISE, Leipzig |
-| 2022 - 2025 | Technical Services Engineer | IDnow, Munich |
-| 2021 - 2022 | Fraud Prevention Specialist | IDnow, Leipzig |
-| 2021 | Ident Specialist | IDnow, Leipzig |
-| 2019 - 2020 | CEO & Founder | In Voice d.o.o., Mostar |
-| 2018 - 2019 | IT Consultant | Media One, Mostar |
+| Zeitraum | Position | Unternehmen / Workspace |
+|--------|------|---------|
+| 10/2025 - Heute | IT Support Engineer (1st & 2nd Level) | Spectos GmbH, Dresden |
+| 04/2026 - Heute | Cloud Automation & DevOps Engineer | GitHub Open Source Workspace |
 
 ---
 
