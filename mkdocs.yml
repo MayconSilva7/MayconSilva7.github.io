@@ -1,7 +1,7 @@
-site_name: Ivan Kokalović - CV
-site_description: Backend Developer & Infrastructure Engineer | Java, Terraform, Docker
-site_author: Ivan Kokalović
-site_url: https://koke1997.github.io/cv-website/
+site_name: Maycon Ferreira Silva - CV
+site_description: First and Second Level Support | Cloud & Infrastructure
+site_author: Maycon Ferreira Silva
+site_url: https://mayconsilva7.github.io/
 use_directory_urls: true
 
 theme:
@@ -95,12 +95,12 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/koke1997
       name: GitHub Profile
-    - icon: fontawesome/brands/soundcloud
-      link: https://soundcloud.com/kokeivanov
-      name: SoundCloud
-    - icon: fontawesome/solid/envelope
-      link: mailto:ivankokalovic@protonmail.ch
-      name: Email
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/maycon.ferreirasilva.9/
+      name: Facebook Profile
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/maycon_silva7/
+      name: Instagram Profile
 
 extra_css:
   - stylesheets/extra.css
