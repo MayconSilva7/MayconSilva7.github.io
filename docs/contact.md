@@ -9,7 +9,7 @@
 ## Get in Touch
 
 <div class="contact-methods">
-  <a href="mailto:ivankokalovic@protonmail.ch" class="contact-method">
+  <a href="mailto:mayconferreirasila7@gmail.com" class="contact-method">
     <span class="method-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2m0 4l-8 5l-8-5V6l8 5l8-5v2Z"/></svg></span>
     <div>
       <span class="method-label">Email</span>
@@ -34,7 +34,7 @@
     <span class="method-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M12 11.5A2.5 2.5 0 0 1 9.5 9A2.5 2.5 0 0 1 12 6.5A2.5 2.5 0 0 1 14.5 9a2.5 2.5 0 0 1-2.5 2.5M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7Z"/></svg></span>
     <div>
       <span class="method-label">Location</span>
-      <span class="method-value">Bremen, Germany</span>
+      <span class="method-value">Dresden, Deutschland</span>
     </div>
   </div>
 </div>
