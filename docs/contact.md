@@ -47,12 +47,12 @@
   <div class="language-card certified">
     <span class="language-flag">DE</span>
     <span class="language-name">German</span>
-    <span class="language-level">C2 Certified</span>
+    <span class="language-level">B2</span>
   </div>
   <div class="language-card certified">
     <span class="language-flag">EN</span>
     <span class="language-name">English</span>
-    <span class="language-level">C2 Certified</span>
+    <span class="language-level">C1</span>
   </div>
   <div class="language-card">
     <span class="language-flag">ES</span>
