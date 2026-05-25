@@ -1,0 +1,176 @@
+ cv:
+  name: Maycon Silva
+  location: Dresden, Germany
+  phone: "+49 160 5573875"
+  email: mayconferreirasilva7@gmail.com
+  social_networks:
+ social_networks:
+    - network: LinkedIn
+      username: mayconsilva7
+    - network: GitHub
+      username:MayconSilva7 
+
+  summary: |
+    Ein äußerst disziplinierter IT-Operations-Spezialist und geborener Autodidakt mit einer außergewöhnlichen Arbeitsmoral. Meine ausgeprägte Fähigkeit zur selbstständigen Einarbeitung in komplexe Systeme zeigt sich darin, dass ich mir drei Fremdsprachen (Englisch, Spanisch, Deutsch) komplett eigenständig beigebracht habe. Dieses strukturierte Framework der autodidaktischen Weiterbildung übertrage ich erfolgreich auf technische Infrastrukturen: Ich verfüge über fundierte Kenntnisse im Linux-Umfeld, in der Implementierung von Python-basierten Automatisierungs-Pipelines sowie in Cloud-Architekturen auf AWS und Google Cloud Platform. Ich arbeite problemorientiert, bin sehr belastbar und überzeuge in dynamischen Umgebungen bei der Fehlerbehebung (Troubleshooting).
+
+  sections:
+    Erfahrung & Projekte:
+      - company: GitHub Open Source Workspace
+        position: Cloud Automation & DevOps Engineer (Autodidaktisches Projekt)
+        location: Dresden, Germany
+        start_date: 2026-04
+        end_date: present
+        highlights:
+          - Entwicklung eines produktionsreifen Python-Automatisierungstools unter Verwendung der Gmail-API zur sicheren Erfassung und Analyse von Datenströmen
+          - Implementierung von Datenbereinigungsfiltern mittels komplexer regulärer Ausdrücke (Regex), um Verarbeitungsfehler zu isolieren und Tarifstufen-Abweichungen automatisch zu prüfen
+          - Integration externer Geocoding-APIs (Geopy/Nominatim) zur automatisierten Adressvalidierung sowie Aufbau einer lokalen State-Persistence-Struktur zur Gewährleistung einer 100%igen Idempotenz
+          - Professionelle Verwaltung von Code-Repositories, SSH-Schlüsselkonfigurationen und automatisierter Infrastruktur über Git/GitHub
+
+    Sprachen (Selbstgelernt):
+      - label: Portugiesisch
+        details: Muttersprache
+      - label: Englisch
+        details: Fließend / Komplett selbstgelernt
+      - label: Spanisch
+        details: Gute Kenntnisse / Komplett selbstgelernt
+      - label: Deutsch
+        details: Gute Kenntnisse / Komplett selbstgelernt
+
+    Technische Qualifikationen:
+      - label: Infrastruktur & Cloud
+        details: Linux Systemadministration (Ubuntu, Debian), Amazon Web Services (AWS Architecture Study), Google Cloud Platform (GCP Core)
+      - label: Programmierung & Shell
+        details: Python (Automatisierung & API-Integrationen), Bash Scripting, Linux Shell-Tools, Git / GitHub Versionsverwaltung
+      - label: Kernkompetenzen
+        details: IT-Infrastruktur-Troubleshooting, Prozessautomatisierung, Datenvalidierung (Regex), API-Middleware-Entwicklung, Hohe Eigeninitiative
+
+    Zertifikate & Weiterbildung:
+      - label: AWS Certified Solutions Architect – Associate
+        details: In Vorbereitung / Kontinuierliches Selbststudium zur professionellen Cloud-Zertifizierung
+      - label: Python Essentials & Automation Pipelines
+        details: Autodidaktisches Deep-Learning Framework für Systemadministration
+
+design:
+  theme: classic
+  page:
+    size: us-letter
+    top_margin: 0.7in
+    bottom_margin: 0.7in
+    left_margin: 0.7in
+    right_margin: 0.7in
+    show_footer: false
+    show_top_note: false
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    line_spacing: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+    font_family:
+      body: Arial
+      name: Arial
+      headline: Arial
+      connections: Arial
+      section_titles: Arial
+    font_size:
+      body: 10pt
+      name: 26pt
+      headline: 10pt
+      connections: 10pt
+      section_titles: 1.3em
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+  links:
+    underline: false
+    show_external_link_icon: false
+  header:
+    alignment: center
+    space_below_name: 0.5cm
+    space_below_headline: 0.5cm
+    space_below_connections: 0.5cm
+    connections:
+      hyperlink: true
+      show_icons: false
+      separator: '|'
+      space_between_connections: 0.5cm
+  section_titles:
+    type: with_full_line
+    line_thickness: 0.5pt
+    space_above: 0.5cm
+    space_below: 0.3cm
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 1em
+    space_between_text_based_entries: 0.3em
+  entries:
+    date_and_location_width: 4cm
+    side_space: 0.2cm
+    space_between_columns: 0.15cm
+    allow_page_break: false
+    short_second_row: false
+    highlights:
+      bullet: '•'
+      space_left: 0.15cm
+      space_above: 0cm
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.5em
+
+locale_catalog:
+  phone_number_format: national
+  date_style: "MONTH_ABBREVIATION YEAR"
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mär
+    - Apr
+    - Mai
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Okt
+    - Nov
+    - Dez
+  full_names_of_months:
+    - Januar
+    - Februar
+    - März
+    - April
+    - Mai
+    - Juni
+    - Juli
+    - August
+    - September
+    - Oktober
+    - November
+    - Dezember
+  month: Monat
+  months: Monate
+  year: Jahr
+  years: Jahre
+  present: heute
+  to: –
+
+rendercv_settings:
+  render_command:
+    output_folder_name: rendercv_output
+    pdf_path: null
+    png_path: null
+    html_path: null
+    dont_generate_png: false
+    dont_generate_html: false
