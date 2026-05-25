@@ -4,8 +4,8 @@
   <div class="hero-content">
     <img src="assets/images/profile.jpg" alt="Maycon Ferreira Silva" class="hero-avatar" onerror="this.style.display='none'">
     <h1 class="hero-title">Maycon Ferreira Silva</h1>
-    <p class="hero-subtitle">Backend Developer & Infrastructure Engineer</p>
-    <p class="hero-location">Bremen, Germany</p>
+    <p class="hero-subtitle">IT Support Enginner</p>
+    <p class="hero-location">Dresden, Deutschland</p>
     <div class="hero-actions">
       <a href="cv/" class="button button-primary">View Full CV</a>
       <a href="download/" class="button button-secondary">Download PDF</a>
@@ -17,19 +17,19 @@
 
 <div class="stats-container">
   <div class="stat-card">
-    <span class="stat-number">7+</span>
+    <span class="stat-number">1.5+</span>
     <span class="stat-label">Years Experience</span>
   </div>
   <div class="stat-card">
-    <span class="stat-number">5</span>
+    <span class="stat-number">3</span>
     <span class="stat-label">Companies</span>
   </div>
   <div class="stat-card">
-    <span class="stat-number">15+</span>
+    <span class="stat-number">7+</span>
     <span class="stat-label">Skill Categories</span>
   </div>
   <div class="stat-card">
-    <span class="stat-number">6</span>
+    <span class="stat-number">4</span>
     <span class="stat-label">Languages</span>
   </div>
 </div>
