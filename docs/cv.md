@@ -1,7 +1,7 @@
 # Ivan Kokalović's CV
 
 - Phone: +49 160 2959394
-- Email: [ivankokalovic@protonmail.ch](mailto:ivankokalovic@protonmail.ch)
+- Email: [mayconferreirasilva7@gmail.com](mailto:mayconferreirasilva7@gmail.com)
 - Location: Dresden, Germany
 - LinkedIn: [maycon-fs7](https://www.linkedin.com/in/maycon-fs7/)
 - GitHub: [MayconSilva7](https://github.com/MayconSilva7)
