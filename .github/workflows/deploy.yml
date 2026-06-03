@@ -40,7 +40,7 @@ jobs:
 
       - name: Render CV PDF
         run: |
-          rendercv render Ivan_Kokalovic_CV.yaml
+          rendercv render maycon_de.yaml
 
       - name: Copy CV PDF to SvelteKit static
         run: |
