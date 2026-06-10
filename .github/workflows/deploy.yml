@@ -44,7 +44,8 @@ jobs:
 
       - name: Copy CV PDF to SvelteKit static
         run: |
-          cp "rendercv_output/Resume_Maycon_Ferreira_Silva_EN.pdf" sveltekit/static/Ivan_Kokalovic_CV.pdf
+          # Nutzt eine Wildcard, damit der genaue RenderCV-Dateiname keine Rolle spielt
+          cp rendercv_output/*.pdf sveltekit/static/Ivan_Kokalovic_CV.pdf
 
       - name: Install Node dependencies
         working-directory: sveltekit
