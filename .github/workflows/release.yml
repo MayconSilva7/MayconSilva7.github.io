@@ -33,7 +33,7 @@ jobs:
           sudo apt-get update && sudo apt-get install -y pandoc
 
       - name: Render CV
-        run: rendercv render Ivan_Kokalovic_CV.yaml
+        run: rendercv render Maycon_Ferreira_Silva_CV.yaml
 
       - name: Generate DOCX
         run: |
@@ -47,14 +47,14 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            Ivan_Kokalovic_CV.pdf
+            Resume_Maycon_Ferreira_Silva_EN.pdf
             Ivan_Kokalovic_CV.docx
           generate_release_notes: true
           body: |
             ## CV Release ${{ github.ref_name }}
 
             ### Downloads
-            - **PDF**: `Ivan_Kokalovic_CV.pdf` - Best for viewing and printing
+            - **PDF**: `Resume_Maycon_Ferreira_Silva_EN.pdf` - Best for viewing and printing
             - **DOCX**: `Ivan_Kokalovic_CV.docx` - Best for ATS systems and editing
 
             ### GitHub Package
